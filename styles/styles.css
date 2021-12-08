@@ -849,12 +849,13 @@ body {
   transition: box-shadow var(--transition-timing) var(--cubic-bezier-first);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
-
+.license {
+  margin-bottom: 30px;
+}
 .license-label {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 30px;
 }
 
 .license-link {
